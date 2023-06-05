@@ -1,0 +1,11 @@
+name: keyoniq
+channels:
+  - conda-forge
+dependencies:
+  - conda-forge::lxml=4.9.2
+  - conda-forge::fastapi=0.96.0
+  - conda-forge::pandas=2.0.2
+  - conda-forge::pip=23.1.2
+  - conda-forge::pydantic=1.10.8
+  - conda-forge::python=3.11.3
+  - conda-forge::uvicorn=0.22.0
